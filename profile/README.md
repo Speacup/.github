@@ -1,3 +1,6 @@
+![Speacup logo](https://user-images.githubusercontent.com/88965873/198522299-04ac0369-4068-4bc8-9d79-757b33c396d2.png)
+
+
 # Speacup
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg?&style=for-the-badge)](https://choosealicense.com/licenses/mit/)
